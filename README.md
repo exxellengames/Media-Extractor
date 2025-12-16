@@ -19,7 +19,7 @@ The extension monitors network requests in the browser and allows users to downl
 
 ## Download
 - Chrome Web Store (if published):
-  https://chrome.google.com/webstore/
+  https://github.com/exxellengames/Media-Extractor/releases
 
 ## Official Website
 - EN: https://exxellengames.great-site.net/en/
