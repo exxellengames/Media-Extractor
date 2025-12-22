@@ -4,6 +4,9 @@ Media Extractor is a Google Chrome extension designed to intercept and download 
 
 The extension monitors network requests in the browser and allows users to download detected media files such as video and audio streams.
 
+## Screenshot
+![mediaex](https://github.com/user-attachments/assets/f18b96d6-650a-40e0-932e-1368a7c7ff80)
+
 ## Key Features
 - Intercepts media files from web pages
 - Supports video and audio downloads
